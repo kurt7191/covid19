@@ -8,7 +8,41 @@
 
 
 
-### 프로젝트 진행 상황
+# 코로나 시대, 여행 사업의 현주소는??
+
+
+
+<img src="png/%EC%83%88%20%ED%8F%B4%EB%8D%94/covid_image.jpg" alt="covid_image" style="zoom:150%;" />
+
+
+
+<img src="png/covid19_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%94.png" alt="covid19_프로젝트개요" style="zoom: 67%;" />
+
+
+
+<img src="png/covid19_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%9C%EC%9A%942.png" alt="covid19_프로젝트개요2" style="zoom:67%;" />
+
+
+
+***최근 급격히 증가하는 국내 확진자 수와, 시작된 백신 접종.***
+
+***이로 인해서 여행 사업은 어떻게 되었을까?***
+
+
+
+(아래 사진은 국내 구별 확진자 수)
+
+
+
+<img src="png/seoul_gu_corona.PNG" alt="seoul_gu_corona" style="zoom:50%;" />
+
+# 
+
+
+
+
+
+# 프로젝트 진행 상황
 
 
 
@@ -194,7 +228,6 @@
 <hr>
 
 
-
 ***2021_08_18 ~ 2021_08_23***
 
 
@@ -203,6 +236,16 @@
 - 상대 리뷰를 참고하여 본인 ppt 작성
 
 
+
+<hr>
+
+***2021_08_24***
+
+
+
+- ppt 각자 완성하고 합치기
+- 최종 pdf 파일 올리기
+- github 정리
 
 
 
