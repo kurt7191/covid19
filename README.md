@@ -12,7 +12,7 @@
 
 
 
-<img src="png/%EC%83%88%20%ED%8F%B4%EB%8D%94/covid_image.jpg" alt="covid_image" style="zoom:150%;" />
+<img src="png/%EC%83%88%20%ED%8F%B4%EB%8D%94/covid_image.jpg" alt="covid_image" style="zoom:200%;" />
 
 
 
